@@ -140,20 +140,23 @@ SOS Button → /sos
 
 ## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
 ### 🔹 Main UI
-![Main UI](<assets/Screenshot 2025-11-25 195417.png>)
+<img src="assets/Screenshot 2025-11-25 195417.png" width="350"/>
 
 ### 🔹 Low-Risk Scenario
-![Low Risk](<assets/Shakti -ai (low risk).png>)
+<img src="assets/Shakti -ai (low risk).png" width="350"/>
 
 ### 🔹 Medium-Risk Scenario
-![Medium Risk](<assets/Shakti-ai(medium).png>)
+<img src="assets/Shakti-ai(medium).png" width="350"/>
 
 ### 🔹 High-Risk Scenario
-![High Risk](<assets/Shakti-ai(high risk).png>)
+<img src="assets/Shakti-ai(high risk).png" width="350"/>
 
 ### 🔹 SOS Alert Response
-![SOS Alert](<assets/Shakti-ai(SOS).png>)
+<img src="assets/Shakti-ai(SOS).png" width="350"/>
 
 ### 🔹 SOS Trigger Event
-![SOS Trigger](<assets/Shakti-ai(SOS trigger).png>)
+<img src="assets/Shakti-ai(SOS trigger).png" width="350"/>
+
