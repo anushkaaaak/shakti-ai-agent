@@ -125,7 +125,7 @@ SOS Button → /sos
 
 ---
 
-## 🚀 Features Demonstrated (Matches Kaggle Rubric)
+## 🚀 Features 
 
 ###  Multi-agent system  
 ###  Custom tools (OSM, memory, risk evaluator)  
@@ -138,20 +138,22 @@ SOS Button → /sos
 
 ---
 
-## ⚙️ Running the Project Locally
+## 🖼️ Screenshots
 
-### **Backend:**
-```bash
-cd backend
-npm install
-node server.js
-### **Frontend:**
-cd frontend
-npm install
-npm run dev
+### 🔹 Main UI
+![Main UI](<assets/Screenshot 2025-11-25 195417.png>)
 
+### 🔹 Low-Risk Scenario
+![Low Risk](<assets/Shakti -ai (low risk).png>)
 
-Frontend runs on: http://localhost:5173
-Backend runs on: http://localhost:5000
-![SHAKTI UI](assets/shakti-ui.png)
+### 🔹 Medium-Risk Scenario
+![Medium Risk](<assets/Shakti-ai(medium).png>)
 
+### 🔹 High-Risk Scenario
+![High Risk](<assets/Shakti-ai(high risk).png>)
+
+### 🔹 SOS Alert Response
+![SOS Alert](<assets/Shakti-ai(SOS).png>)
+
+### 🔹 SOS Trigger Event
+![SOS Trigger](<assets/Shakti-ai(SOS trigger).png>)
