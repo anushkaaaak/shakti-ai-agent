@@ -140,8 +140,6 @@ SOS Button → /sos
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
 ### 🔹 Main UI
 <img src="assets/Screenshot 2025-11-25 195417.png" width="350"/>
 
