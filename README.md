@@ -38,8 +38,7 @@ The system processes user messages, evaluates danger level, retrieves nearby eme
 
 ---
 
-## 🧠 Multi-Agent Logic (Required for Kaggle Evaluation)
-
+## Multi-Agent Logic 
 SHAKTI AI uses **3+ agents** inside a single orchestrated backend (`server.js`):
 
 ### **1️⃣ Heuristic Danger Agent**
